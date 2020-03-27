@@ -1,1 +1,5 @@
-never can do stuff from 1st attempt
+*log
+*db
+/bin
+/target
+..gitignore
